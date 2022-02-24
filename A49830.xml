@@ -1,0 +1,1047 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of the honourable Christopher Sherard, Esq., eldest son to the right honourable Bennet Lord Sherard, February the 28th, 1681 by T.L. ...</title>
+            <author>Laxton, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49830</idno>
+            <idno type="STC">Wing L744</idno>
+            <idno type="STC">ESTC R34511</idno>
+            <idno type="EEBO-CITATION">14471871</idno>
+            <idno type="OCLC">ocm 14471871</idno>
+            <idno type="VID">102410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102410)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1062:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of the honourable Christopher Sherard, Esq., eldest son to the right honourable Bennet Lord Sherard, February the 28th, 1681 by T.L. ...</title>
+                  <author>Laxton, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Roycroft for Robert Clavell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Grief allayed, death sweetned, hope raised.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherard, Christopher, d. 1681.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102410:1"/>
+            <pb facs="tcp:102410:1" rendition="simple:additions"/>
+            <p>
+               <hi>Grief allayed, Death ſweetned, Hope raiſed.</hi>
+            </p>
+            <p>A SERMON Preached at the FUNERAL OF THE HONOURABLE <hi>CHRYSTOPHER
+SHERARD,</hi> 
+               <abbr>Eſq</abbr> Eldeſt Son to the RIGHT HONOURABLE
+<hi>BENNET</hi> Lord <hi>SHERARD; February</hi> the 28<hi rend="sup">th,</hi> 1681.</p>
+            <p>By <hi>T. L.</hi> M.A.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. Roycroft,</hi> for <hi>Robert
+Clavell</hi> at the <hi>Peacock</hi> in St. <hi>Pauls Church-yard,</hi>
+1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:102410:2"/>
+            <pb facs="tcp:102410:2"/>
+            <head>To the Right Honourable, the Lady <hi>Elizabeth Sherard,</hi>
+Fulneſs of true Conſolation in Chriſt.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>HAD not your Ladiſhip deſired a Sight of this plain Sermon, I
+ſhould ſcarce have aſſumed the Confidence to have preſented it to
+your peruſal; but as I receive your deſire as a Command, ſo your
+favourable Acceptance will add weight and worth to it. If the witty Cenſurer
+ſhall ſay, That I tell him nothing but what he knew lefore; I ſhall be
+contented with it, and rejoyce that he was ſo well Inſtructed, and wiſh
+alſo that he needed not a Re<g ref="char:EOLhyphen"/>membrancer; howſoever, no man ought to be
+offended, that Sermons are not like curious Inquiries after
+<hi>New-nothings,</hi> but purſuances of <hi>Old Truths.</hi> I am very
+ſenſible your Ladiſhip is furniſhed (from much more Learned
+Phyſicians than I am) with very proper Receipts againſt the late cauſe of
+your Sorrow; yet I hope (Madam) that this which I here preſent unto you, may
+ſomewhat heighten and improve their efficacy: And in ſo doing, I ſhall
+eſteem it amongſt thoſe Bleſſings, with which God uſeth to reward
+thoſe good Intentions which himſelf firſt puts into our hearts, and then
+recompences up<g ref="char:EOLhyphen"/>on <pb facs="tcp:102410:3"/>our heads. All Sermons are but Arguments a<g ref="char:EOLhyphen"/>gainst
+us, unleſs they make us quit our Miſtakes, and ſuffer them in ſome
+inſtance and degree to do the work of God upon our Souls. And the ſpecial
+deſign of this here preſent (dedicated to your ho<g ref="char:EOLhyphen"/>nourable Patronage and
+Protection) is, to deſcribe the greater Lines of our Duty, when our Faces are
+bedew'd with Tears, and our Backs cloathed with Mourning: And whatſoever
+relliſh your La<g ref="char:EOLhyphen"/>diſhip may find in the Comment, yet I am ſure the Text,
+being carefully laid up in your Religious Breaſt, will be ſound,
+wholeſom, and conſolatory; though what I have in much weakneſs perform'd
+is only in Duty expreſſing the many and great Obli<g ref="char:EOLhyphen"/>gations you daily renew
+upon.</p>
+            <closer>
+               <signed>Your Ladiſhips Moſt obliged Servant, and devoted
+Chaplain, Tho. Laxton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:102410:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Theſſ. 4.13.</hi>
+                  </bibl> 
+                  <p>But I would not have you to be igno<g ref="char:EOLhyphen"/>rant, Brethren, concerning
+them which are aſleep; that ye ſorrow not, even as others which have no
+hope.</p>
+               </q>
+            </epigraph>
+            <p>THE weeping Eyes and bleeding Hearts which are ſo plentifully
+diſco<g ref="char:EOLhyphen"/>vered in this Aſſembly, tell you the ſum of my Errand, our
+preſent Buſi<g ref="char:EOLhyphen"/>neſs, the Work in hand, a Funeral. The Party deceaſed; a
+moſt accompliſht, ingenious, pious, well-natur'd, well-nurtur'd Perſon:
+The firſt Son and hopeful Heir to the Great and Generous, Heroick and Ancient
+Family of the <hi>Sherards.</hi> The Mourners, not only all preſent, but
+abſent, in num<g ref="char:EOLhyphen"/>bers as great and conſiderable, as our loſs and tears are
+great and wonderful: The Place of Burial, the Sepulcher of his Progenitors.
+When <hi>Samuel</hi> died, 1 <hi>Sam.</hi> 25. <hi>all the Iſraelites were
+gathered together, and lamented him; and buried him in his Houſe at</hi>
+Ramah. To be buried, is an honour; buried in one's own Country, much; in his
+own Place, more; <pb n="2" facs="tcp:102410:4"/>with ſolemn Lamentations, moſt of all;
+the Saints Honour: For he that ſpends his days, though few, (as this moſt
+excellent Branch of Vertue did) upon God and Man, ſhall at the laſt have
+all the Honour Heaven and Earth can caſt upon him: A holy and a vertuous Life
+ends in an happy and honourable Death. <hi>Joſiah</hi> having received his
+Death abroad, is brought home in his Chariot, and much Honour attends him to
+his Grave; he is <hi>buried amongst his Fathers;</hi> all <hi>Jeruſalem,</hi>
+nay all <hi>Judah,</hi> and the Neighbouring Towns, are Mourners: God and Man
+concurred in this, that <hi>Joſiah</hi>'s Name ſhould never dye. Good men
+never go to the Grave unlamented, but generally are attended with Mourning,
+<hi>as the Mourning of</hi> Hadradrimmon in the Valley of <hi>Me<g ref="char:EOLhyphen"/>giddon.</hi>
+And here lies the miſtake of <hi>weak and frail man,</hi> that too often
+performs actions in them<g ref="char:EOLhyphen"/>ſelves lawfully good, after an unlawful and
+immode<g ref="char:EOLhyphen"/>rate manner. The words therefore that I have cho<g ref="char:EOLhyphen"/>ſen for our preſent
+Subject, are a choice portion of Scripture; teaching us to ſtere our
+Courſe, and keep up our Heads, that we neither ſink nor drown in theſe
+Waters of Affliction. And though I have be<g ref="char:EOLhyphen"/>fore now treated on the ſame Text,
+yet, at this time, and upon this occaſion, I have renew'd my Medita<g ref="char:EOLhyphen"/>tions,
+and adapted them, not only for Matter, but alſo in ſuch Order and Method,
+as may be moſt pro<g ref="char:EOLhyphen"/>per for the end I propoſe, even, the allaying our
+Griefs, and raiſing our Hopes; <hi>I would not have you to be ignorant,</hi>
+&amp;c.</p>
+            <p>The Scope of the Apoſtle in theſe words, is to re<g ref="char:EOLhyphen"/>gulate
+immoderate Sorrow for them that <hi>ſleep in the Lord.</hi>
+            </p>
+            <pb n="3" facs="tcp:102410:4"/>
+            <p>For the <hi>Theſſalonians,</hi> 'though well inſtructed an
+confirm'd in the Faith, and particularly of the <hi>Reſurrection</hi> (which
+Faith, if it had its full work<g ref="char:EOLhyphen"/>ing, would neceſſarily infer and inforce a
+mean in Mourning for deceaſed Chriſtians) yet, it ſeems o<g ref="char:EOLhyphen"/>verborn
+ſometimes with immoderate Paſſion for their deceaſed Brethren, they
+gave way to exceſs of Sorrow. Againſt this Infirmity, the Apoſtle gives
+this Exhortation, as a ſeaſonable and wholeſom Re<g ref="char:EOLhyphen"/>medy. <hi>I would,
+&amp;c.</hi>
+            </p>
+            <p n="1">1. Where obſerve, The Subſtance of the Precept, to keep
+a Mean in Mourning; not to pour out our ſelves into exceſſive Sorrow for
+the Dead.</p>
+            <p n="2">2. Reaſons to enforce it, interwoven with the Precept.
+From, 
+<list>
+                  <item>1. The Nature of Death; <hi>a Sleep.</hi>
+                  </item>
+                  <item>2. The Iſſue of Death; <hi>a hopeful
+Reſurre<g ref="char:EOLhyphen"/>ction.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Withal ſecretly taxing and reprehending this im<g ref="char:EOLhyphen"/>moderate Sorrow,
+as arguing too little knowledge (practical knowledge) of future
+Bleſſedneſs; and too much ſavouring of <hi>Gentiliſm,</hi> whoſe
+hopes were terminated with this preſent Life, and of the bleſſed ſtate
+to come, were altogether hopeleſs. The firſt, in the firſt words, <hi>I
+would not have you ignorant;</hi> and the other in the laſt, <hi>even as the
+Gen<g ref="char:EOLhyphen"/>tiles,</hi> &amp;c.</p>
+            <p>The firſt general Oſervation is, 
+<q>
+                  <milestone type="tcpmilestone" unit="unspecified" n="Obſ. 1."/> That Chriſtians ought to moderate
+their Sorrow for the Dead.</q>
+            </p>
+            <p>To baniſh indeed all Affections out of the Nature of Man, may be
+a part of Stoical, but not Chriſtian Philoſophy. Religion, as it doth not
+aboliſh Rea<g ref="char:EOLhyphen"/>ſon, <pb n="4" facs="tcp:102410:5"/>but ſanctifie and guide it; nor
+deprive us of Senſe, but teacheth us a right uſe of the Senſes; ſo it
+deſtroys not the Affections, but orders and huſ<g ref="char:EOLhyphen"/>bands them aright; as
+<hi>Joſhuah</hi> did dot kill the <hi>Gi<g ref="char:EOLhyphen"/>beonites,</hi> but ſubjected them
+to the uſe and ſervice of the Tabernacle. They therefore are to be bla<g ref="char:EOLhyphen"/>med
+that ſtupifie Nature, and quench thoſe Affe<g ref="char:EOLhyphen"/>ctions that are implanted in us
+by the Finger of God in our firſt Creation; as that rigid Sect the
+<hi>Sto<g ref="char:EOLhyphen"/>icks,</hi> who would have their Wiſe-man, or Philoſo<g ref="char:EOLhyphen"/>phical Saint
+ſo mortified, as in no Accident to Joy, or Grieve, or change a Countenance;
+or in any Loſs, even of deareſt Friends, to ſuffer any relenting. Such
+pains they took to ceaſe to be Men, that they ſubjected themſelves below
+the degree of Beaſts. Patience they may count it, &amp; inſuperable
+Fortitude, which is indeed rather the want of <hi>natural affecti<g ref="char:EOLhyphen"/>on,</hi> 
+               <note place="margin">Rom. 1.</note> condemn'd by the Apoſtle as a
+<hi>blockiſh ſtupidity;</hi> and may juſtly fall under that Cenſure, 
+<note place="margin">Jer. 5.3.</note> 
+               <hi>Thou hast ſmitten them,
+but they have not grieved:</hi> For cer<g ref="char:EOLhyphen"/>tainly the death of Friends is a
+ſtroke. 
+<note place="margin">Ezek. 24.</note> 
+               <hi>I will take away the
+deſire of thine eyes with a ſtroke;</hi> (ſaith God to <hi>Ezekiel,</hi>)
+a ſtroke which toucheth all of dear relation; and is it fit the ſtrokes of
+God ſhould fall upon a flinty and unrelenting heart? Therefore we find that
+<hi>Abraham</hi> mourned for <hi>Sarah; Joſeph</hi> for <hi>Jacob;</hi> the
+<hi>Iſraelites</hi> for <hi>Moſes, Aaron, Samu<g ref="char:EOLhyphen"/>el.</hi> Cuſtomary it was
+among the <hi>Jews</hi> to mourn <hi>ſeven days;</hi> ſometimes longer;
+with <hi>faſting</hi> and <hi>renting of the Clothes:</hi> This perhaps more
+of Su<g ref="char:EOLhyphen"/>perſtition, than either of Neceſſity or Decen<g ref="char:EOLhyphen"/>cy.</p>
+            <pb n="5" facs="tcp:102410:5"/>
+            <p>Yet there ought to be a Moderation for them that are <hi>dead in
+Christ.</hi> As all our Affections, that they may be uſeful in a Chriſtian
+Life, muſt be bankt up within their due Bounds, and bridled with a ſtrong
+hand of Grace; neither miſapplied in their Object, nor falling over or
+ſhort in their Mea<g ref="char:EOLhyphen"/>ſure: And therefore ſome of the very <hi>Heathen</hi>
+have placed the top of Wiſdom in the Moderation of the Affections; their
+<hi>Ethicks,</hi> or <hi>Doctrine</hi> of <hi>Moral Vertues</hi> being
+exerciſed chiefly in this Task: So particularly a ſpecial care is to be had
+that they overflow not the Banks in mourning for the Dead. Hence God did forbid
+to his People thoſe <hi>Heathen Rites</hi> of <hi>cutting themſelves,</hi> 
+               <note place="margin">Deut. 14.1.</note> and <hi>ſhaving</hi> of the
+<hi>hair.</hi> Our bleſſed Saviour, in the caſe of <hi>Jairus</hi> his
+Daughter, newly dead, when both the Father and Mother of the Child, and the
+Diſciples there preſent opened the Sluce of Tears to their Affecti<g ref="char:EOLhyphen"/>ons,
+ſets Bounds and Banks to that Paſſion, in theſe words, <hi>Weep not;
+ſhe is not dead, but ſleepeth.</hi> For this cauſe he diſliked in their
+Solemn Fune<g ref="char:EOLhyphen"/>rals, the uſe of the Jewiſh Minſtrelſy, the end whereof was
+to encreaſe Sorrow by ſad and dole<g ref="char:EOLhyphen"/>ful Tunes. 
+<note place="margin">
+                  <hi>Deteſtandae ſunt illae lacrymae quae non
+habent modum.</hi> Thrae<g ref="char:EOLhyphen"/>nodiae.</note> 
+               <hi>Affection</hi> (ſaith One) <hi>in
+this Caſe hath need of a Bridle, not a Spur.</hi> St. <hi>Hierom</hi>'s
+Caution is worthy of Obſervation, <hi>Thoſe Tears are to be deteſted
+which have no meaſure.</hi>
+            </p>
+            <p>Indeed, ſome of Gods Children have Impotently yielded to the
+violence of this Paſſion (as indeed it is moſt eaſie to ſlip into
+<hi>Exceſs,</hi> where the Matter about which our Actions are converſant,
+is of it ſelf confeſſedly Lawful:) Hence <hi>Rachels</hi> Weeping,
+Mourning, and great Lamentation for her <hi>Children, <pb n="6" facs="tcp:102410:6"/>becauſe</hi> (as to her preſent ſenſe) <hi>they were not.</hi>
+And <hi>Davids</hi> Paſſionate Ejaculations for <hi>Abſolom; O Abſolom,
+&amp;c. would God I had died for thee, &amp;c.</hi> But theſe Examples are
+neither commendable nor imitable; and rather Documents of Humane Infir<g ref="char:EOLhyphen"/>mity,
+than Precedents of Imitation. And for the laſt; he bewail'd not ſo much, in
+St. <hi>Auguſtines</hi> Judg<g ref="char:EOLhyphen"/>ment, his Sons death, as that fearful ſtate
+wherein he ſeem'd to die; ſtain'd with horrid <hi>Inceſt</hi> againſt
+his Fathers Bed, and <hi>
+                  <g ref="char:V">Ʋ</g>nnatural practiſes</hi> againſt his Fathers
+Life. How much more comly and Imi<g ref="char:EOLhyphen"/>table was his Demeanour in the Death of his
+Child, born to him by <hi>Bethſhabe?</hi> Seeking to the Lord by <hi>Prayer
+and Faſting</hi> for the Child, while it was yet alive; 
+<note place="margin">2 Sam. 12.23.</note> but when dead,
+<hi>Wherefore</hi> (ſaith he) <hi>ſhould I faſt? I ſhall go to him, but
+he ſhall not return to me.</hi>
+            </p>
+            <p>Now, for the ſuppreſſing of this Inordinate Paſſi<g ref="char:EOLhyphen"/>on,
+take into your ſerious Thoughts theſe Conſide<g ref="char:EOLhyphen"/>rations.</p>
+            <p n="1">1. That it is Gods doing; and we muſt give him leave to
+uſe his own Power and Soveraignty over his Creature, 
+<note place="margin">Iſai. 64.2.</note> in whoſe hands <hi>we are
+all as Clay in the hands of the Potter.</hi> He that inſpired the Breath of
+life, may juſtly recal it: Whatſoever the Weapon be, the Hand is his that
+wields it. This one Meditation is enough to ſilence all Repining and
+Impatient Thoughts; as to draw from us that hum<g ref="char:EOLhyphen"/>ble Reſignation of St.
+<hi>Paul, 
+<note place="margin">Acts 21.14.</note> The Will of the Lord be
+fulfilled:</hi> Of <hi>Eli, It is the Lord, let him do what ſeems good in his
+ſight:</hi> Of <hi>David, I held my peace, and opened not my Mouth, for it
+was thy doing.</hi> This Conſideration allayed <hi>Jobs</hi> Sorrow in 
+<pb n="7" facs="tcp:102410:6"/>the loſs of his Children: He look'd not at the <hi>Rot<g ref="char:EOLhyphen"/>ten
+Houſe,</hi> or the <hi>Four Winds</hi> that ſmote it; but at him that
+bringeth the <hi>Winds out of his Treaſures;</hi> and therefore ſets up
+within himſelf this patient Reſolution, <hi>The Lord giveth, 
+<note place="margin">Job. 1.21.</note> and the Lord taketh away;
+Bleſſed be the Name of the Lord.</hi>
+            </p>
+            <p n="2">2. Conſider the Vanity and Unprofitableneſs of
+Exceſſive Sorrow; it profiteth neither the Living, nor the Dead. Not the
+<hi>Living: 
+<note place="margin">Prov. 12.25.</note> Heavineſs in the heart of
+Man bringeth it down, and Worldly ſor<g ref="char:EOLhyphen"/>row worketh death.</hi> As Fire lightly
+ſprinkled, burns more clearly; too much overwhelm'd gives neither heat nor
+light: So moderate Sorrow advantageth the Soul in many Natural, Moral, and
+Spiritual Acti<g ref="char:EOLhyphen"/>ons; Immoderate, quencheth the Vigour of the Spirits, and
+renders us unfit for every good Du<g ref="char:EOLhyphen"/>ty.</p>
+            <p>Again, It profiteth not the <hi>Dead.</hi> Should we fill their
+Tombs with Tears, and ſpend our Lives in La<g ref="char:EOLhyphen"/>mentation, we cannot redeem them.
+Exceſſive Sorrow may bring us to them; no Sorrow, Care, or Coſt can bring
+them back to us: As <hi>David, I ſhall go to him, but he ſhall not return
+to me.</hi>
+            </p>
+            <p n="3">3. Conſider the Neceſſity of Dying. Ever ſince that
+neceſſitating Law, <hi>Dust thou art, and unto Duſt ſhalt thou
+return,</hi> Man is by the Chain of Gods irrevocable Decree tied unto Death.
+<hi>It is ap<g ref="char:EOLhyphen"/>pointed to all Men once to die;</hi> and who ſhall diſ<g ref="char:EOLhyphen"/>appoint
+his Appointment? Whatſoever parts have been acted upon this Stage of
+Mortality, <hi>Death</hi> is the <hi>Cataſtrophe,</hi> and the <hi>Grave</hi>
+the place of Re<g ref="char:EOLhyphen"/>tyring. The Wiſdom of the Wiſe cannot prevent it; the
+Tongue of the Eloquent cannot charm it; <pb n="8" facs="tcp:102410:7"/>the Strength of the
+Mighty cannot reſiſt it: It Re<g ref="char:EOLhyphen"/>verenceth neither the Gray hairs of the
+Aged, nor the Green locks of the Young. No ſwiftneſs can over-run it, no
+Proweſs over-match it: No gifts of Nature, priviledges of Place, endowments
+of Grace, can free us from the ſtroke of it. Where are thoſe Millions of
+Generations, that have hitherto Peo<g ref="char:EOLhyphen"/>pled the Earth? Have they not made their
+Beds in the Dark? And when they have ſerv'd their time, have they not ſeen
+Corruption? And ſhall We think to have our Friends, <hi>Fathers, Mothers,
+Husbands, Wives, Children,</hi> exempted from the Univerſal Law of Humane
+Nature?</p>
+            <p n="4">4. But that which is yet more effectual to moderate Sorrow
+for the Dead, is, that <hi>Death</hi> is indeed a Portal and paſſage unto
+Life. If indeed they were utterly extinct, ſhut up in Eternal Dark<g ref="char:EOLhyphen"/>neſs,
+ſome reaſon had we with <hi>Rachel</hi> to Mourn for them, ſuppoſing
+that they are not: But we know that they are, and believe that they are happy;
+and <hi>that when this Earthly houſe of our tabernacle is diſſolved, we
+have a building not made with hands, eternal in the Heavens.</hi> When the
+Soul, taking her flight into a ſtate of Bliſs, and leaving behind her this
+Clog of Mortality, ſhall be removed an in<g ref="char:EOLhyphen"/>computable diſtance from this
+Vale of Sin and Mi<g ref="char:EOLhyphen"/>ſery. And are we ſorry for this bleſſed Exchange?
+ſhall we Mourn for their glorious preferment, whom we profeſs to live with
+God? 
+<note place="margin">
+                  <hi>Spei noſtrae ac Fidei prevari<g ref="char:EOLhyphen"/>catores.
+Simu<g ref="char:EOLhyphen"/>lata, ficta, fu<g ref="char:EOLhyphen"/>cata, videntur eſſe quae dici<g ref="char:EOLhyphen"/>cimus.</hi>
+Cyprian.</note> What difference, in this reſpect, between the Hopeleſs
+Heathen, and the Profeſſed Chriſtian? St. <hi>Cyprian</hi> thinks it
+in<g ref="char:EOLhyphen"/>congruous to Mourn for them in Black, that follow the <hi>Lamb</hi> in
+White. This perhaps may ſeem a Flower of Rhetorick; but certainly,
+Exceſſive Sor<g ref="char:EOLhyphen"/>row <pb n="9" facs="tcp:102410:7"/>ſhews us to be of a defective Faith:
+That Faith can hardly be thought ſincere, unto which we walk ſo contrary in
+Practice. Eſpecially ſeeing a very Heathen could ſay, That <hi>we do</hi>
+(not <hi>amittere,</hi> but <hi>praemittere</hi>) <hi>not loſe them, but
+ſend them before us;</hi> in Hope (as our Faith further teacheth us) to
+follow and communicate with them in the ſame Glory and Bleſſedneſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Obſ. 2."/> And this leads me to the next General
+part of the Text, the Firſt Reaſon againſt Exceſſive Sor<g ref="char:EOLhyphen"/>row for the
+Dead, the Nature of Death, <hi>It is a ſleep.</hi>
+            </p>
+            <p>
+               <hi>Sleep,</hi> in phraſe of Scripture, admits of divers
+ſenſes; for we find, Firſt,</p>
+            <p>
+               <hi>The ſleep of Nature:</hi> A binding of the Senſes; 
+<note place="margin">Somnus Naturae.</note> a Reſt, ceſſation,
+and ſuſpention of them from their Actual operations; and conſequently, 
+<note place="margin">Ligatio ſenſu<g ref="char:EOLhyphen"/>um.</note> of all the Members
+of the Body from executing their Natural offices and functions. Thus
+<hi>Adam</hi> ſlept in Paradice, <hi>Jeſus</hi> in the Ship, <hi>Peter</hi>
+in the Priſon.</p>
+            <p n="2">2. <hi>The ſleep of Sin:</hi> A ſecure Spiritual
+Lethargy. 
+<note place="margin">
+                  <hi>Somnus Cul<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae.</hi> Eph. 5.14. 1 Theſſ. 5.6.</note>
+               <hi>Awake thou that ſleepeſt. Let us not ſleep, as do others; but let us
+watch and be ſober;</hi> that is, A<g ref="char:EOLhyphen"/>riſe from the Grave of Infidelity and
+Sin, unto the Life of Faith, the Life of Righteouſneſs; and then to keep
+the Eyes of our Souls continually waking, leſt we be inveigled by the Devil
+or the Worlds Temptations.</p>
+            <p n="3">3. <hi>The ſleep of Grace:</hi> 
+               <note place="margin">Somnus Gratiae.</note> A holy Peace and
+Tran<g ref="char:EOLhyphen"/>quility of Mind, ariſing from the apprehenſion of Gods favour in
+Chriſt. <hi>I will lay me down and ſleep.</hi> If <hi>David</hi> can attain
+a glimpſe of the light of Gods Countenance, then he will lay him down and
+ſleep.</p>
+            <pb n="10" facs="tcp:102410:8"/>
+            <p n="4">4. 
+<note place="margin">Somnus Sepul<g ref="char:EOLhyphen"/>cri.</note> 
+               <hi>The ſleep of the
+Grave:</hi> The long ſleep of Death; when the Body lying in the Bed of Duſt
+doth reſt un<g ref="char:EOLhyphen"/>til it be awakened by the Sound of the laſt Trumpet. Now to
+prevent Error and Miſtake, this Sleep is not to be conceiv'd of the
+ſeparated Soul, as ſome have vainly thought; ſuppoſing it to be not
+only without Organical by a bodily Inſtrument action, but without all Action:
+Not conſidering, that the Soul, even in the ſtate of Union and Commerce
+with the Body, hath her proper and Immaterial acts of Thinking, Rea<g ref="char:EOLhyphen"/>ſoning,
+Judging, &amp;c. Yea, the moſt perfect Acts of the Soul are exerciſed, when
+the Bodily Senſes are tied up, as in Extaſies and deep Contemplations.
+Beſides, the Spirits of Men, in and after their Tranſ<g ref="char:EOLhyphen"/>migration, are
+ſtill Spirits; but without motion and activity they would be no Spirits: For
+the Nature and Eſſence of a Spirit conſiſts in Act; and it is not
+obſcurely intimate, <hi>Rev.</hi> 5.12. that they are em<g ref="char:EOLhyphen"/>ployed in
+<hi>Magnifying and praiſing God.</hi> Under<g ref="char:EOLhyphen"/>ſtand this <hi>Sleep</hi>
+therefore to be of the Body in the Grave; a Metaphor very frequent in Holy
+Scri<g ref="char:EOLhyphen"/>pture: 
+<note place="margin">Deu. 12.2.</note> 
+               <hi>Many of them that ſleep
+in the dust of the Earth, ſhall awake.</hi> Of divers of the Kings of
+<hi>Iſrael</hi> and <hi>Judah,</hi> 'tis ſaid, that they <hi>ſlept with
+their Fathers.</hi> St. <hi>Paul</hi> reproving the abuſe of the Holy
+Sacrament in the <hi>Corinthian</hi> Church; <hi>For this cauſe</hi> (ſaith
+he) <hi>many are ſick and weak among you, and many ſleep.</hi> And St.
+<hi>Stephen,</hi> having <hi>commended his Spirit into the hands of Chriſt, 
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Act. 7.59.</note> fell
+aſleep.</hi> A Similitude uſed among the Heathen: Hence their diſtinction
+of the Greater and Leſſer Sleep. 
+<note place="margin">Homer. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> One calls it
+<hi>Deaths Brother;</hi> Another, <hi>Deaths Siſter;</hi> Another, <hi>Deaths
+Image.</hi> Of one <hi>Gorgias</hi> it is ſaid, That being ſick and heavy
+unto <pb n="11" facs="tcp:102410:8"/>Death, and very ſleepy; being ask'd how he did, 
+<note place="margin">Virgil. <hi>Stulte quid eſt ſomnus gelidae,
+niſi mortis Imago. Jamme ſomnus incipit tradere fratri ſuo.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> replied, <hi>Now ſleep begins to deliver me up
+to his Brother Death.</hi> Theſe, although Ignorant of a Reſurrection,
+could eaſily find in Death the ſimili<g ref="char:EOLhyphen"/>tude of a <hi>Sleep:</hi> Hence our
+Graves are called <hi>Beds,</hi> and our Churchyards, <hi>Sleeping-places,</hi>
+or <hi>Dormi<g ref="char:EOLhyphen"/>tories.</hi> And indeed, if <hi>Death</hi> be a Sleep, the
+<hi>Grave</hi> muſt needs be the Bed. 
+<note place="margin">Iſai. 57.2.</note> Unto this may fitly be
+applied that of the Propht, <hi>They ſhall enter into peace, they ſhall lie
+down upon their Beds; each one walking in his uprightneſs.</hi>
+            </p>
+            <p>Divers Reaſons may be given of this Similitude; I ſhall pitch
+upon two: Firſt, <hi>Sweetneſs of Reſt.</hi> Secondly, <hi>Certainty of
+Reſurrection.</hi>
+            </p>
+            <p n="1">1. <hi>Sweetneſs of Reſt. 
+<note place="margin">Rev. 14.13.</note> Bleſſed are the Dead
+which die in the Lord, for they reſt from their La<g ref="char:EOLhyphen"/>bours.</hi> Man is
+<hi>born to affliction, as the ſparks fly upwards.</hi> No Family, Age, Sex,
+or Condition of Men, but hath experience of Humane Miſeries: A heavy yoak is
+laid upon the Sons of Men, from the day of their Birth unto the day of their
+Death. Afflictions, like Waves, come rolling one upon ano<g ref="char:EOLhyphen"/>ther; the end of one
+miſery is the beginning of a<g ref="char:EOLhyphen"/>nother. Hear we not one crying, <hi>My belly, my
+belly!</hi> with the Prophet? another, <hi>My head, my head!</hi> with the
+<hi>Shunamites</hi> Son? One, <hi>My Fa<g ref="char:EOLhyphen"/>ther, my Father!</hi> with
+<hi>Eliſha?</hi> another, <hi>My Son, my Son!</hi> with <hi>David?</hi> One
+complaining of Cruel Enemies; another of Falſe Friends: One of Sore Labour;
+another of Hungry Meals: One of Grief in the Body; another of Sin in the Soul?
+Here lies <hi>Jacob</hi> in the Fields, there <hi>Joſeph</hi> in Priſon;
+Here <hi>Jeremy</hi> in the Dungeon, there <hi>David</hi> in the Wilderneſs;
+<hi>Daniel</hi> among the Lions, the <hi>Three <pb n="12" facs="tcp:102410:9"/>Children</hi>
+in the Fiery Furnace. It is not unſignificant that Nature ſends us into the
+World, <hi>Weeping;</hi> a ſad preſage of our future Calamity: Such our
+Ingreſs, ſuch our Progreſs through this Vale of Tears. So that
+<hi>Man</hi> and <hi>Miſery</hi> ſeem to be born under one Planet. If Man
+had not been, Sorrow upon Earth had ne<g ref="char:EOLhyphen"/>ver been. And as we ſuffer many Evils,
+ſo we do more; the Fleſh continually luſting againſt the Spi<g ref="char:EOLhyphen"/>rit, and
+the Spirit againſt the Fleſh: <hi>ſo that the good which we would, we do
+not; and the evil which we would not, that we do.</hi>
+            </p>
+            <p>From all theſe, this <hi>Sleep</hi> in my Text, gives us a
+ſweet diſcharge; the Soul carried into <hi>Abrahams</hi> Boſom. And what
+is the Fathers Boſom, but a place of Repoſe unto the Child? The Body laid
+up in a Couch of Sacred reſt and ſecurity; ſweetned, ſan<g ref="char:EOLhyphen"/>ctified,
+ſeaſoned and perfumed by the moſt precious Death and Burial of Chriſt; 
+<note place="margin">Cubile in quo mollius dormit quiſquis durius
+ſe en hâc vitâ geſſerit.</note> where our ſleep ſhall be
+ſweeter, as our labour hath been harder. The Body no ſooner dead, but it
+feels nothing; the Soul no ſooner fled, but it feels it ſelf happy.</p>
+            <p n="2">2. <hi>Certainty of Reſurrection.</hi> Indeed, more
+cer<g ref="char:EOLhyphen"/>tain than we are of riſing in the Morning, when we go to Bed at Night. 
+<note place="margin">Dan. 12.2.</note> 
+               <hi>They that ſleep</hi>
+(according to <hi>Daniels</hi> Prophecy) <hi>ſhall awake.</hi> The
+<hi>Sea</hi> and the <hi>Grave</hi> ſhall deliver up their Dead, as faithful
+Tru<g ref="char:EOLhyphen"/>ſtees and Depoſitaries of that which is committed to them. A Voice will
+one day ſound, like that of Chriſt <hi>(who is the Reſurrection and the
+Life)</hi> to <hi>Lazarus; Lazarus come forth:</hi> Or like that in the
+Prophet, <hi>Awake and ſing ye that dwell in the Dust; 
+<note place="margin">Iſai. 26.19.</note> for thy dew is as the dew
+of Herbs, and the Earth ſhall give up her Dead.</hi> 
+               <pb n="13" facs="tcp:102410:9"/>As
+the ſweet Dews or Showrs (as we commonly ſay) looſen many a Priſoner,
+make Corn and Graſs to grow; ſo the Dew of heavenly Vertue and In<g ref="char:EOLhyphen"/>fluence
+which flows from Chriſt, ſhall looſen many a Priſoner; raiſe our
+Bodies, the Priſoners of Hope, from that dark Cell of the Grave, unto a
+ſtate of Bleſſedneſs and Glory.</p>
+            <p>And now ſince <hi>death is a ſleep,</hi> much may be learnt
+hence for our Inſtruction and Comfort.</p>
+            <p n="1">1. For Inſtruction, firſt, Unto a due and ſerious
+preparation for it. We prepare our ſelves to ſleep, by ſetting aſide
+all worldly Negotiations, giving to Body and Mind a Ceſſation from outward
+Imploy<g ref="char:EOLhyphen"/>ments: So ſhould we diſpoſe our ſelves to this laſt ſleep,
+laying aſide all worldly Cares and Diſtracti<g ref="char:EOLhyphen"/>ons. 
+<note place="margin">2 Kings 20.1.</note> 
+               <hi>Set thy Houſe in
+order</hi> (ſaith the Prophet to <hi>Hezekiah</hi>) <hi>for thou muſt
+dye.</hi> While the Houſe is out of order, the Mind is out of frame, and not
+yet rightly compoſed to ſleep: Eſpecially the Soul it ſelf is to be
+ſet in order, by ſerious Repentance, and unfeigned Reſolutions and
+Endeavours of a new Life. It was <hi>Agurs</hi> Prayer, 
+<note place="margin">Prov. 30.7.</note> 
+               <hi>Two things have I
+deſired of the Lord, before I dye.</hi> One is, <hi>Remove from me Vanity and
+Lyes:</hi> Sin is often repreſented to us under the Notion of <hi>vanity and
+lies</hi> (as in the ſourth <hi>Pſalm,</hi> and elſewhere) indeed a
+<hi>lying vani<g ref="char:EOLhyphen"/>ty;</hi> abuſing our Apprehenſions with the ſhadow and
+appearance of a ſeeming good, but in the mean time betrays us to a real evil
+of guilt and torment. This therefore ſhould be the chief care, aime and
+endeavour of our whole Lives, not to <hi>dye in our ſins: But laying aſide
+the ſin which beſets us about,</hi> as <pb n="14" facs="tcp:102410:10"/>Clothes do the
+Body, 
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the
+<hi>rotten raggs</hi> of the <hi>Old man,</hi> and ſo having made our peace
+with God, we may be fit to lay down our heads in peace. Thus prepare thy ſelf
+continually for this bleſſed Reſt, by renewing thy Repentance; fortifying
+thy Reſolu<g ref="char:EOLhyphen"/>tions of better Obedience; confirming thy Intereſt in the Merits
+and Mediation of Chriſt, that when<g ref="char:EOLhyphen"/>ſoever it ſhall pleaſe God to call
+thee to Bed, thou may'ſt with a ſerene Conſcience, and a good
+aſſu<g ref="char:EOLhyphen"/>rance of Hope, lay down thy dying head upon this Pillow, the free and
+immerited Grace of God in Chriſt, and chearfully Commend thy Soul into his
+hands, as into the hands of a faithful Creator and Redeemer.</p>
+            <p n="2">2. It teacheth Reſignation: When we ſleep we willingly
+yield to Nature, without ſtrugling or re<g ref="char:EOLhyphen"/>luctation; ſo ſhould we unto the
+God of Nature, when he calls us to this long ſleep; being not haled or drag'd
+out of this Earthly Tabernacle, but wil<g ref="char:EOLhyphen"/>lingly reſign it into the hands of
+our great Land<g ref="char:EOLhyphen"/>lord. Our Death ſhould not be a violent Divulſi<g ref="char:EOLhyphen"/>on, but a
+gentle Diſſolution. Mark St. <hi>Paul</hi>'s words, 
+<note place="margin">2 Tim. 4.6. <hi>Nihil intereſt utrum abjures
+depoſitum, aut doleas restitu<g ref="char:EOLhyphen"/>cum.</hi>
+               </note> 
+               <hi>I am now ready to be
+offered;</hi> ready, as a <hi>Freewill Offering.</hi> God requires but what he
+hath for a time lent us; and ſhall we be unwilling to re<g ref="char:EOLhyphen"/>ſtore? We had as
+good deny the Debt, as grieve to make Reſtitution.</p>
+            <p n="3">3. It teacheth hope of a Reſurrection. When men go to
+ſleep, they put off their Clothes indeed, but expecting to put them on again
+in the Morning; ſo we are to nouriſh in our ſelves this Faith, that
+'though we uncloath our ſelves of this vile Body, <pb n="15" facs="tcp:102410:10"/>it is
+not loſt, but put to the mending, to be changed in the faſhion, reſtored
+to Immortality and Incorruptibility, <hi>and made like unto the glorious Body
+of Chriſt.</hi> This for Inſtruction. Again, here is Matter of exceeding
+Comfort,</p>
+            <p n="1">1. Firſt, againſt the ſeeming horrour of the Grave:
+That Death is but a ſleep, and differs only from it in this (which is its
+advantage) ſoundneſs of Reſt, and perhaps length of Continuance. Fear not
+then (O Chriſtian) the ſtink of Rottenneſs, horrour of Darkneſs,
+gnawing of the Worms, &amp;c. theſe things ſhall not ſenſibly touch
+thee. Con<g ref="char:EOLhyphen"/>ceive of it rather as a Caſtle of Security, a Cham<g ref="char:EOLhyphen"/>ber of Reſt, a
+Bed of Down, a Pillow of Eaſe, wherein thou ſhalt ſafely and ſweetly
+reſt till the Morning of the Reſurrection. Truly therefore we may ſay, 
+<note place="margin">Stultum eſt mor<g ref="char:EOLhyphen"/>tem horrere, &amp; ſomno
+delectari.</note> It is a vain and fooliſh thing to delight to ſleep, yet
+to be afraid to dye. Doſt thou go to Bed every Night, and art thou afraid to
+go this once? Art thou not yet weary of hearing, ſeeing, doing, and
+ſuffering ſo much evil? Art thou like a pettiſh Child, unwilling and
+fearful to go to Bed? When therefore our time of ſleep approacheth, and that
+we are called to reſt in our Fathers Boſom, let us be affected as good old
+<hi>Hilarion; Go forth, 
+<note place="margin">Egredere anima mea, egredere, quid times?</note>
+O my Soul, go forth; What feareſt thou? My Body lye down and
+ſleep.</hi>
+            </p>
+            <p n="2">2. This Comforts us againſt the Miſeries and Sufferings
+of this preſent Life. Methinks when I look on Man, I ſee a deplorable
+Creature, ſubject to innumerable Miſeries, hurried with Temptations,
+diſtemper'd with Paſſions, 
+<note place="margin">Job 7.2.</note> 
+               <hi>as a Servant earneſtly
+de<g ref="char:EOLhyphen"/>ſiring <pb n="16" facs="tcp:102410:11"/>the ſhadow, and as an hireling the reward of
+his work.</hi> Chear up thy ſelf in this, that as the ſhadow of the Night
+doth equally gratifie Ma<g ref="char:EOLhyphen"/>ſter and Servant, High and Low, Rich and Poor, with
+the common benefit of Nature; ſo there is a time of ſleep and reſt
+approaching, which will ſhut up our Miſeries with our Eyes, and end our
+Labours with our Lives. Though here we have born the travail and heat of the
+day, our Comfort is, we ſhall go to Bed at Night. It is recorded of
+<hi>Babilas,</hi> that renowned Martyr, that when <hi>Decius</hi> the Emperour
+commanded his Head to be chopt off; receiving that bloody Sentence with a
+ſweet Calm<g ref="char:EOLhyphen"/>neſs and Serenity of Soul, he uſed only thoſe few words of
+the <hi>Pſalmiſt, 
+<note place="margin">Pſal. 116.7.</note> Return then unto thy
+reſt, O my Soul.</hi> A bleſſed ſleep indeed; not as our Natural
+ſleeps often are, troubled and ſhort; but reſtful without diſturbance;
+bliſsful without pain and annoiance, and which ſhall not be ſtartled or
+amazed with the voice of the <hi>Arch-Angel,</hi> and the <hi>Trump of
+God:</hi> But both Body and Soul united, ſhall be put into poſſeſſion
+of that glo<g ref="char:EOLhyphen"/>rious Eternal Reſt, which remains unto the Peo<g ref="char:EOLhyphen"/>ple of God.</p>
+            <p>The third General part of the Text remains; which is the ſecond
+Ground of Comfort, The hope of a bleſſed Reſurrection; implied in theſe
+words; 
+<q>Even as they that have no hope.</q>
+            </p>
+            <pb n="17" facs="tcp:102410:11"/>
+            <p>The <hi>Hope</hi> here mentioned (as appears by the following
+words) is of a <hi>bleſſed Reſurrection;</hi> and conſequently of
+<hi>Eternal Glory:</hi> Where beſides a ſevere Reprehenſion of immoderate
+Sorrow for the Dead, we have a ſolid ground of Comfort, both againſt the
+Fear of Death, and Sorrow for deceaſed Chriſtians. And it is this; 
+<q>That a Chriſtian is a Man of Hope.</q>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Obſ. 3."/> It is not the will of God that we
+ſhould preſent<g ref="char:EOLhyphen"/>ly enter upon the Poſſeſſion of our Inheritance; but
+that we ſhould be here in a ſtate of expectancy of that Bleſſing which
+is depoſited, 
+<note place="margin">
+                  <hi>Hoc ipſum quod ſumus Chriſtia<g ref="char:EOLhyphen"/>ni
+ſpei res eſt.</hi> Pſal. 97.11.</note> laid up for us in Heaven: So that
+a Chriſtian's Treaſure and Felicity conſiſts in Hope. <hi>Light is
+ſowen for the Righte<g ref="char:EOLhyphen"/>ous, and Joy for the <g ref="char:V">Ʋ</g>pright in heart.</hi> But
+ſow<g ref="char:EOLhyphen"/>en, and under the Clods here; the Harveſt is yet to come: <hi>It doth
+not yet appear what we ſhall be;</hi> 
+               <note place="margin">1 Joh, 3.2.</note> our Happineſs here is in
+Reverſion, not in preſent Poſſeſſion. And though God give us a
+comfortable taſte of it, in the <hi>firſt fruits of the Spirit, Peace of
+Conſcience,</hi> and <hi>Joy in the Holy Ghoſt;</hi> the full fruition is
+not till the Life to come.</p>
+            <div type="application">
+               <head>The <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> is firſt of
+<hi>Inſtruction,</hi>
+               </head>
+               <p n="1">1. To inform us of the difference between the Children of
+God and of this World; one is a man of hope, the other hopeleſs; one hath his
+portion, and receiveth <hi>his good things</hi> here, the things of a better
+Life he neither cares nor hopes for. For ſomething in preſent, though a
+Poſſeſſion of Dirt, he is ready to forfeit all his great and glorious
+hopes; with <hi>Eſau,</hi> preferring his <hi>pottage</hi> before his
+<hi>birth-right.</hi> But the true Chriſtian is a man of hope, and hath
+quitted the purſuit of things Temporal, for things Eternal. Therefore may
+ſay to the Worldling, as our bleſſed <pb n="18" facs="tcp:102410:12"/>Saviour to his
+Kinſmen in another caſe; <hi>your time is alway with you; but my time is
+not yet come;</hi> much good may your Portion do you. I envy you not, I rather
+pity you. I have other things to think of, of more worth and certainty: In the
+mean time, my Soul ſhall reſt in hope.</p>
+               <p n="2">2. To teach us to cheriſh this Hope by a godly and
+Chriſtian Life. Hope and Holineſs, like <hi>Hyppocra<g ref="char:EOLhyphen"/>tes</hi> Twins, wax
+and wain, riſe and fall, live and dye together. As we grow up in the true
+fear of God, and conſcience of well-doing, we confirm our hope of eternal
+Bleſſedneſs. 
+<note place="margin">Acts 24.15.</note> 
+                  <hi>We have hope toward
+God</hi> (ſaith the Apoſtle) <hi>that there ſhall be a Reſurrection
+both of the juſt and unjuſt: And</hi> (for this hopes ſake) <hi>I
+exerciſe my ſelf to have a Conſcience void of offence both toward God and
+Man.</hi> Thus hope is nouriſht by the ſtudy of holineſs, as the light of
+a Lamp is by the Oyl that feeds it: Therefore live well and hope well. 
+<note place="margin">1 John 3.3.</note> 
+                  <hi>He that hath this hope
+purifieth himſelf as God is pure.</hi> Again, here is matter of Comfort,</p>
+               <p n="1">1. Firſt, Againſt the difficulties we meet with in the
+courſe of Piety. There is naturally in us a cer<g ref="char:EOLhyphen"/>tain tenderneſs ready to
+ſink under Duty, unleſs born up and encourag'd with the hope of the
+<hi>Prize ſet before us,</hi> 
+                  <note place="margin">1 Theſſ. 1.3.</note> St. <hi>Paul</hi>
+ſpeaks of a <hi>work of Faith,</hi> and <hi>labour of Love;</hi> implying
+ſome hard Enterpriſe. And what is the <hi>work of Faith?</hi> to march
+conſtant<g ref="char:EOLhyphen"/>ly againſt all Oppoſitions, to reſiſt Temptations, to
+overcome the World, to endure hardſhip, <hi>as good Souldiers of Jeſus
+Chriſt,</hi> and <hi>to perſevere</hi> in our holy purpoſes <hi>unto the
+end.</hi> And what is the labour of Love? An unwearied induſtry and diligence
+in pro<g ref="char:EOLhyphen"/>curing the good of others, with all good offices and fruits growing from
+the root of Charity. Both theſe <pb n="19" facs="tcp:102410:12"/>are quickned by a hopeful
+intuition of the Reward, which he calls in the next words, <hi>the patience of
+hope.</hi> So having bleſſed God for the <hi>Colloſſians</hi> Faith and
+Love, he points to that which ſupported both; 
+<note place="margin">Col. 1.5.</note> 
+                  <hi>for the hopes ſake
+which is laid up for us in Heaven.</hi> Without this hope, we ſhould deſire
+and yet ſit ſtill; (like men languiſhing in ſtrength) purpoſe and be
+weary of our own purpoſes; reſolve, and preſently loath our own
+Reſolutions; but the patience of hope having an eye to the Crown, ſweetens
+our Labours, perpetuates our Endeavours, and enables us with in<g ref="char:EOLhyphen"/>vincible
+Conſtancy to ſurmount all Difficulties, Thus hope by fortifying our
+Reſolutions, and ſmoothing the roughneſs of the way, makes us to purſue
+the good we aſpire to, with more heat and leſs pain. The Husbandman would
+not ſo freely expoſe himſelf to toil and travail, wind and weather, but
+for hopes ſake, which promiſeth him the Fruit of his Labour. The Souldier
+would not caſt himſelf into ſo many horrid forms of dangers, ſcale
+Walls, enter Breaches, thruſt himſelf into the fury of Combates, but for
+hopes ſake of either Booty or Glory. The Merchant would not expoſe
+himſelf to Waves and Storms, Rocks and Quick-ſands, but in hopes of a
+golden Recompence: This will men do and ſuffer for (alas!) a poor ſhadow of
+Wealth and Glory. Brethren, as a Chriſtians work is much more honou<g ref="char:EOLhyphen"/>rable,
+ſo the reward ſet before us, to quicken faint<g ref="char:EOLhyphen"/>ing Vertue, is incomparably
+more glorious. There<g ref="char:EOLhyphen"/>fore let this hope in our boſomes encourage us, not only
+patiently, but joyfully to tread upon all Diffi<g ref="char:EOLhyphen"/>culties, and conſidering the
+joy that attends us in the end, to <hi>fix our eye, gird our loyns, gather up
+our ſtrength, and run with patience the Race that is ſet before
+us.</hi>
+               </p>
+               <pb n="20" facs="tcp:102410:13"/>
+               <p n="2">2. Againſt the Sufferings and Afflictions of this
+preſent Life: Let us not be diſmay'd with croſſes and loſſes of
+whatſoever is deareſt to us, ſo long as the Treaſure of our Hope, our
+Bank in Heaven is ſafe and untoucht. Hope is an excellent Receipt againſt
+all Cardiack Paſſions; it hath a ſpecial virtue againſt fainting of the
+heart, and therefore to be laid up in the boſom againſt all
+diſtreſſes, eſpecially when the thing hoped for is ſo excellent.
+<hi>Well yet</hi> (ſaith <hi>Job</hi>) <hi>I know that my Redeemer liveth,
+and that I ſhall one day ſee him;</hi> when his <hi>reins</hi> were
+<hi>conſumed within him.</hi> And this wrought in him a patient ex<g ref="char:EOLhyphen"/>pectation
+of betters things; <hi>All the days of my ap<g ref="char:EOLhyphen"/>pointed time will I wait till my
+change come;</hi> a change from ſin and miſery, to happineſs and glory.
+We ſee by experience, that even natural hope ſolaceth the Soul in all
+Afflictions; it tells us there is no impoſſibility of Emergency, and
+riſing out of the deepeſt Miſeries; that Humane Calamities have their
+bounds, and will not always tyre themſelves about one Man; that there is
+ſucceſſion of Storms and Calms in the courſe of Mans life, that
+unexpected ways of relief may happen: Such is the Viciſſitude of Earthly
+things. If there be the leaſt chink or cranny to let in any Beam of Comfort,
+<hi>Hope</hi> will not lightly fail. <hi>Natural Hope</hi> therefore is an
+ex<g ref="char:EOLhyphen"/>cellent Anchor in the Troubleſom Sea of this World. But (alas) oft-times
+the Cable breaks, our Hope ſpends it ſelf in Vain Imaginations, and in the
+end makes us aſhamed. 
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Heb. 6.11.</note> But
+this <hi>Hope;</hi> as the end is more certain, ſo the Aſſurance more
+full. A full Aſſurance of Hope, and ſo of far greater virtue to ſupport
+the Soul. It hath made the glorious <hi>Mar<g ref="char:EOLhyphen"/>tyrs</hi> to ſuffer the loſs of
+all things, of Life it ſelf; <pb n="21" facs="tcp:102410:13"/>not accepting deliverance
+(that is, upon baſe terms, and with loſs and prejudice of their Faith) that
+they might obtain a better Reſurrection. The Na<g ref="char:EOLhyphen"/>tural Hope carries us but to
+our Lives end; that's the utmoſt Verge of it: <hi>While I live, I hope to
+live.</hi> 
+                  <note place="margin">Dum ſpiro ſpero, cnm expiro
+ſpe<g ref="char:EOLhyphen"/>ro.</note> But the Grace of <hi>Hope</hi> carries us further: <hi>When
+dead, I hope to live;</hi> and therefore let Health, 
+<note place="margin">The Righte<g ref="char:EOLhyphen"/>ous hath hope in his death.
+<hi>Prov.</hi> 14.32.</note> Wealth, Liberty, Friends, yea Life and Breath, and
+all go; yet I will hold faſt the hope of <hi>Joy</hi> that is ſet before
+me. Though therefore we dwell here as <hi>Lot</hi> in <hi>Sodom;</hi> our Souls
+vexed, tortured with the ſinful Vanities of Men, there is hope of a Day when
+every thing that offends ſhall be caſt out. Though our ſincere endeavours
+to pleaſe God be derided by the Profane World; there is hope of a Time
+com<g ref="char:EOLhyphen"/>ing, when our <hi>Judgment ſhall break forth as the light, and our
+Righteouſneſs as the Noon day;</hi> when we ſhall have <hi>Beauty</hi>
+for our <hi>Aſhes,</hi> and <hi>Glory</hi> for our <hi>Shame.</hi> Do we
+groan under the burthen of Sin, the rebellion of <hi>Nature</hi> againſt
+<hi>Grace,</hi> of the <hi>Fleſh</hi> againſt the <hi>Spirit?</hi> there is
+hope of an ex<g ref="char:EOLhyphen"/>change of <hi>Weakneſs</hi> for <hi>Power, Imperfection</hi>
+for <hi>Perfection, Neceſſity of ſinning</hi> for a <hi>Confirmed ſtate
+of obeying.</hi> Thus Hope ſupports the Spirits, and keeps us from Sowning.
+It ſeems, St. <hi>Paul</hi> was ſometime a little diſpirited and out of
+heart; but revives preſently: and what was his Cordial? Hope of the
+<hi>Reſurrection,</hi> and the conſequent <hi>Glory; That this light
+affliction, which is but for a mo<g ref="char:EOLhyphen"/>ment, worketh to us a far more exceeding and
+eter<g ref="char:EOLhyphen"/>nal weight of glory.</hi> If our Hopes were termi<g ref="char:EOLhyphen"/>nated within the narrow
+bounds of this Life, Chri<g ref="char:EOLhyphen"/>ſtianity were at a poor ſtay, and Chriſtians of
+all Men moſt miſerable; (ſo cold entertainment doth <pb n="22" facs="tcp:102410:14"/>it find in the World) but being Anchored <hi>within the Vail,</hi> we
+are of all Men moſt happy.</p>
+               <p n="3">3. To Conclude, as I began; This ſhould mo<g ref="char:EOLhyphen"/>derate our
+Sorrow for them that are Dead in the Lord; That they breathed out their Souls
+in hope; that their <hi>fleſh rests in hope,</hi> and their Bodies in Graves
+are but Priſoners of Hope; and their Re<g ref="char:EOLhyphen"/>union with us in a glorious and
+Triumphant Fellow<g ref="char:EOLhyphen"/>ſhip, 
+<note place="margin">In quo non poteſt ſubeſſe
+fulſum.</note> is the matter alſo of our Hope. And though a Fiducial and
+Infallible aſſurance of anothers final Happineſs (while they are yet in
+the ſtate of Tra<g ref="char:EOLhyphen"/>vellers) none can have, without ſpecial Revelation. ('Tis
+well if we can attain this Aſſurance to our ſelves, with all diligence
+and much difficulty, by many degrees <hi>working out our ſalvation with fear
+and trembling;</hi>) yet for them that have <hi>fought a good fight,</hi> and
+<hi>finiſhed their courſe</hi> in the true Faith and fear of God; well may
+we have an erected <hi>Hope</hi> of a glorious and eternal Aſſociation, and
+that <hi>together with them we ſhall for ever be with the Lord; 
+<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>v.</hi> 7.</note>
+wherefore comfort one another with theſe words.</hi> Indeed, a ſolid ground
+of Chriſtian Conſolation in this ſhort Temporal privation of our
+deareſt Friends, and ſuch as the <hi>Gentiles,</hi> who were <hi>without
+Chriſt,</hi> the ground of Hope; without the Church, the San<g ref="char:EOLhyphen"/>ctuary of Hope;
+without the Covenant of Grace, the Reaſon of our Hope, could not afford.
+Thoſe Cordials that are fetch'd out of Natures Boxes; That <hi>Death</hi> is
+the common end of All; 
+<note place="margin">Mors exitus communis, ea lege
+naſcimus.</note> that it is the Law and Condition of our Birth, are but cold
+Comforts, in compariſon of that which Chriſtian Hope holds forth unto us:
+<hi>And therefore, Bleſſed be God and the Father of our Lord Jeſus
+Chriſt, who hath begotten us again unto a lively hope, by the 
+<pb n="23" facs="tcp:102410:14"/>Reſurrection of Chriſt from the dead; to an
+inhe<g ref="char:EOLhyphen"/>ritance immortal, incorruptible, undefiled, that fadeth not away,
+reſerved for us in Heaven.</hi> Amen.</p>
+               <p>And now my Diſcourſe, like a Circle, is return'd to the
+Point where I began, <hi>viz.</hi> This truly Ver<g ref="char:EOLhyphen"/>tuous, Noble, Courteous,
+Dearly beloved Gentle<g ref="char:EOLhyphen"/>man. A great Treaſury, though exhauſted; a ſhining
+Light, quenched; a burning glorious Lamp, extinguiſhed, a ſweet, delicious,
+comly, fragrant Flower, cropt and fading; a bright Star of a diſtin<g ref="char:EOLhyphen"/>guiſhed
+magnitude, removed from our Horizon, and well may Darkneſs cover this
+Hemiſphere. Here I could willingly ſit down a while in ſilence, and only
+by the language of our Tears, ſpeak our ſenſe of this heavy Loſs; but
+(as I have new<g ref="char:EOLhyphen"/>ly Diſcours'd) all Paſſions, eſpecially that of
+<hi>Grief,</hi> need rather a Bridle than a Spur. Let therefore the Thoughts of
+his Superlative Merits, while living, and the Inexpreſſible Glories he is
+now in poſſeſſion of, bring down the Sluce a while, and dam up the
+ſtreaming Fountain of our <hi>Tears</hi> and <hi>Sorrow,</hi> whilſt, to
+his moſt deſervedly Worth and Memory, and our abundant Delight and Comfort,
+we pay that Tribute of <hi>Praiſe</hi> that is due to Gods Servants and
+Children; advancing thereby his Glory, and adding Spurs to the Pious Endeavours
+of thoſe who Survive. And that I may the more both ſuitably and
+ſuccinctly delineate thoſe Graces, which though they are gone with him, for
+his Comfort, yet ſtay behind him, for his Honour and our Imitation.</p>
+               <pb n="24" facs="tcp:102410:15"/>
+               <p>Be pleaſed to veiw him in the Method of theſe fol<g ref="char:EOLhyphen"/>lowing
+Particulars:</p>
+               <p>Firſt, In his <hi>Birth;</hi> There we may ſee great
+Ex<g ref="char:EOLhyphen"/>cellencies deſcended to him by his Progenitors. To be born of a good
+Family, and to be well Deſcen<g ref="char:EOLhyphen"/>ded, is a Mercy not to be neglected; <hi>Nec
+imbellem progenerant aquilae columbam,</hi> ſaith <hi>Horace.</hi> You have
+read of Mr. <hi>Philpots</hi> zealous Martyrdom; 
+<note place="margin">V. 2. Examin. of Mr. <hi>Philpot. Acts</hi>
+and <hi>Mon.</hi> Vol. 3. Dr. <hi>Wilk.</hi> H. gl.</note> be<g ref="char:EOLhyphen"/>ing a Knights
+Son, told his Perſecutors, <hi>He was a Gentleman.</hi> Anabaptiſtical
+parity, and Levelling de<g ref="char:EOLhyphen"/>ſigns, are ever to be abhord, and look'd upon as the
+ready way to Rapine, Confuſion, and Violence. To be born of Noble Parents,
+from a Family that is not ſtain'd nor ſullied with the foul ſpots of
+<hi>Fa<g ref="char:EOLhyphen"/>ction</hi> and <hi>Rebellion;</hi> nor tainted with the Seeds of
+<hi>Error, Schiſm,</hi> and <hi>Diviſion;</hi> nor baſely dirted with the
+black filth of <hi>Debauchery, Atheiſm, Pro<g ref="char:EOLhyphen"/>phaneſs,</hi> and
+<hi>Irreligion;</hi> (all which is eminently true without Flattery, in this
+Gentlemans <hi>Eſcutche<g ref="char:EOLhyphen"/>on</hi>) queſtionleſs, is one of Gods choice
+Bleſſings: And to a Mind inclining to Vertue, it availeth much to be born
+well; <hi>Eſt aliquid clarus magnorum ſplendor avorum</hi>— The
+glorious Deſerts of Ho<g ref="char:EOLhyphen"/>nourable Parents, is no ſmall Patrimony
+—<hi>ſed vix ea noſtra a voco</hi>—</p>
+               <p>Secondly, Therefore conſider him in his own
+<hi>Per<g ref="char:EOLhyphen"/>ſon:</hi> And in that, firſt his Outward, and then ſecond<g ref="char:EOLhyphen"/>ly his
+Inward Ornaments, Grace, and Perfections. His <hi>Body</hi> of exact ſymmetry
+and proportion, where we might behold a great ſhare of Comlineſs and
+Beauty, which God our Creator (the Fountain of all <hi>Beauty</hi>) had
+imparted to this lovely Creature; and in ſuch a meaſure, as if
+<hi>Mother-Nature</hi> had called a Councel, and took a more than ordinary care
+and <pb n="25" facs="tcp:102410:15"/>coſt in its firſt draught and lineaments: But when
+it became poliſh'd, by an ingenious and liberal Educa<g ref="char:EOLhyphen"/>tion; every ſtep and
+motion in his Deportment, was a prevailing Argument to beget both Love and
+Ad<g ref="char:EOLhyphen"/>miration.</p>
+               <p>Thirdly, And all this is as far Inferior to his In<g ref="char:EOLhyphen"/>ward
+Perfections, as the ſhining of the Gold-Ring, in compariſon of that
+luſtre and ſplendid Excellency, which the Artificially Cut and well-ſet
+<hi>Diamond</hi> af<g ref="char:EOLhyphen"/>fords the Spectator. When firſt Judgment and the uſe of
+Reaſon began to open and perform its Acts, how induſtrious was he to
+impreſs good Habits! That that Seaſon might be improved to Vertue, which in
+many Children is too prone to Liberty; accuſtoming himſelf to good Manners,
+before he was fully comprehenſive of a greater Knowledge and Underſtanding.
+And when at any time (whilſt under my Tuition) any thing ſeem'd difficult
+to his obtaining; in that very particular, the goodneſs of a ſweet
+Diſpoſition ſo eminently appeared, That did not Court and Complement an
+Indulgence from me, but ſubdue by Conqueſt. And ever as His days and years
+increaſed, ſo did alſo a moſt Accompliſh'd model of his Duty toward
+God and Man. How of<g ref="char:EOLhyphen"/>ten have I (when expecting to have interrupted his Innocent
+Divertiſements by a ſudden ſurpriſal) found, to my great Comfort, this
+hopeful and pious Bloſſom in a Saint-like poſture on his knees to God,
+with two or three gathered together, tendring his Morning Sacrifice? Nor was it
+done by fits, and ex<g ref="char:EOLhyphen"/>torted by Fear, or a ſevere Diſcipline; but a
+con<g ref="char:EOLhyphen"/>ſtant and Free-will Offering. Had you ſeen that pithy and ſuitable
+Form of Prayer annexed in his firſt Grammar, ſlubber'd and defac'd by his
+tender <pb n="26" facs="tcp:102410:16"/>hands, with his daily peruſal; it would be no
+great wonder, that God ſhould ſo ſoon remove him to ſing
+<hi>Allelujahs</hi> in the <hi>Choire</hi> of Heaven, that had ſo early and
+ſo well perform'd it on Earth. He that had ſo ſoon vers'd himſelf in
+the Principles of Re<g ref="char:EOLhyphen"/>ligion, contain'd in the <hi>Church-Catechiſm,</hi> to
+the delight of his Earthly Parents, could not long be detain'd from being made
+perfect with Gods Chil<g ref="char:EOLhyphen"/>dren, to the glory and honour of his Heavenly Fa<g ref="char:EOLhyphen"/>ther.
+He, in whom there was ſuch a fruitful Spring of all imaginable good hopes of
+doing good in his Generation among Men, is now glorifying God a<g ref="char:EOLhyphen"/>mongſt
+Angels; as the one, in deep Sighs and ſad Accents of Lamentations bewails our
+great loſs; ſo the other, as a moſt ſtrong Cordial ſhould revive our
+drooping Souls. Many excellent things might be communicated unto you, not only
+for Imitation, but Admiration. St. <hi>Paul,</hi> 2 <hi>Tim.</hi> 2.20. tells
+us, <hi>In a great houſe there are veſſels of Gold, ſome to honour,
+ſome to diſhonour.</hi> Give me leave to borrow his Metaphor; <hi>In this
+Noble houſe, this great Family, He was a choice Veſſel.</hi> What
+<hi>Euſebius</hi> calls his Beloved Friend, I may well apply unto him; he was
+<hi>Vas Virtutum admirabile,</hi> A Veſſel adorn'd with an admirable
+variety of Natural Abilities, Moral Ver<g ref="char:EOLhyphen"/>tues, and Spiritual Graces, every way
+ſuitable to his Birth, Quality, and Education. O that all the Sons of Honour
+of this Kingdom, and Off-ſpring of good Blood, had the like Pious and early
+Inclinations to good Literature and Education! Such Ambitious Thoughts, to be
+eminent in Knowledge and Piety! Such Sentiments of the
+<hi>
+                     <g ref="char:V">Ʋ</g>niverſities!</hi> Such Re<g ref="char:EOLhyphen"/>vere to the Members thereof! Such value and
+e<g ref="char:EOLhyphen"/>ſteem to their Parts and Merits! Then I ſhould be <pb n="27" facs="tcp:102410:16"/>in
+greater Hopes of ſeeing a flouriſhing State and Kingdom: Then would there
+be more Amicable Overtures between the Church and State. I dare be bold to
+ſay it, That there is nothing ſooner likely to weaken and prevent, if not
+expoſe and ruine the flouriſhing State of this or any Kingdom, than the
+want of ſound Learning and Exemplary Lives in the Nobility and Gentry
+thereof. I cannot omit the imparting one thing obſervable in this young Hero,
+at his firſt entrance to make his own Conceptions into <hi>Latin;</hi> in
+order thereunto I gave him this Subject, <hi>Ignorantia est ſola inimica
+Doctrinae,</hi> i.e. <hi>Ignorance is the alone Enemy to Learning;</hi> which
+made ſuch impreſſions upon his tender Thoughts, that (in his moſt free
+Converſation with thoſe, that the Hoſpitable Houſe-keeping of his
+Honourable Parents, gave many and frequent Opportunities for) He daily
+obſerved thoſe Perſons, to have the mean<g ref="char:EOLhyphen"/>eſt Thoughts, not only of
+Clergy-men, but of all others whatſoever under any Coat or Garb, if Learned,
+whoſe Education and Scholarſhip could carry them very little further than
+to Write and Read. I have a large field to turn me in, where I might expatiate
+in his juſt and due Character, be<g ref="char:EOLhyphen"/>ing gone out like a <hi>Taper,</hi> that
+hath left a ſweet Sa<g ref="char:EOLhyphen"/>vour behind him in the Noſtrils of all that knew him:
+But I am willing to contract my ſelf, know<g ref="char:EOLhyphen"/>ing I am contain'd in the
+preſcrib'd limits of ſuch Time as may be moſt ſuitable to the Offices
+of this Nature. And what ſhould I ſay more? for the Time would fail me to
+tell of his <hi>Humility, Meek<g ref="char:EOLhyphen"/>neſs, Modeſty, Courteſie, Condeſcending
+to thoſe of low Eſtate;</hi> the great Aims and Ambition to ex<g ref="char:EOLhyphen"/>preſs
+<hi>Duty to his Parents, Love to his Friends, <pb n="28" facs="tcp:102410:17"/>Familiarity
+with his Neighbour, <g ref="char:V">Ʋ</g>nmoveable affe<g ref="char:EOLhyphen"/>ction to his Servants, Lowlineſs to his
+Inferiours, Reſpect to his Superiours, Kindneſs to his Equals,</hi> and
+<hi>Inſuperable Goodneſs to his dearest and neareſt Relatives.</hi> Thus
+he left the World, <hi>having ob<g ref="char:EOLhyphen"/>tain'd a good report through Faith,</hi> Heb.
+11.39. in the flower and firſt budding of his days, upon the con<g ref="char:EOLhyphen"/>fines and
+borders of the 16th year of his Age, at the Feet of <hi>Gamallel,</hi> newly
+placed in a ſtation of good Literature, in a Conſtellation of Arts and
+Sciences, in that Ancient Foundation of <hi>Exeter-Colledge,</hi> long ſince
+Laid by the Learned and Charitable <hi>Walter Stapleton,</hi> Biſhop of
+<hi>Exeter,</hi> amongſt the young Glories of our preſent ſtate,
+univerſally Lamented, univerſally Beloved, in his <hi>Virgin-purity</hi>
+unſtain'd and unſpotted; nowly Eſpouſed (with the joyful Ap<g ref="char:EOLhyphen"/>probation
+of Parents on both ſides) to a Lady whoſe promiſing Excellencies, not
+only of a conſiderable Fortune, but of <hi>Vertue, Youth, Beauty, good
+Nature, good Parentage,</hi> and all ſuch commendable Qualifica<g ref="char:EOLhyphen"/>tions, as
+might have in all appearing probabilities, rendred them both as happy as our
+Deſires and Wiſhes could have expected, and their Worths me<g ref="char:EOLhyphen"/>rited and
+deſerved. O! But that God, that rules and governs all things by his Wiſdom
+and Providence, the reaſons and cauſes of the various effects whereof, are
+Subjects to employ the eyes of our <hi>Faith</hi> and <hi>Hope,</hi> but not to
+be diſcover'd in Proſpectives of Hu<g ref="char:EOLhyphen"/>man Reaſon) ſent an Hoſt of
+Heavenly Spirits, to at<g ref="char:EOLhyphen"/>tend and recal that Spirit (he himſelf firſt
+breathed) to the celebration of Nuptials of an higher Nature, with <hi>Jeſus
+Chriſt</hi> the great Bridegroom of departed Saints, in the Beatifical
+Viſion of the all glorious Trinity, <hi>the Father of an Infinite Majeſty,
+the true <pb n="29" facs="tcp:102410:17"/>and only Son, the Holy Ghoſt the Comforting and
+San<g ref="char:EOLhyphen"/>ctifying Spirit.</hi>
+               </p>
+               <p>And ſhall we now either irrationally complain? or
+religiouſly murmure and repine at? or uncharita<g ref="char:EOLhyphen"/>bly envy at his glorious
+Tranſlation? He is inlarg'd from the Priſon of this Life, and ſhall we
+bemoan his Liberty? He has quickly weathered through the diſturb'd Waves in
+the unquiet Sea of this World; and ſhall we in a miſtaken Zeal debar him
+the quiet Haven? Unwiſe Mortals that we are! Is there any Earthly
+Inheritances, Crowns, or Dignities, that could court him into a Return, or an
+Exchange, for thoſe Manſions of Eternal Glory, he is in poſſeſſion
+of? No, no; his Gains in his removal, are of ſuch a Nature, both for Body,
+Soul, Eſtate, Place, and Company, as can neither be ſufficiently
+expreſſed, or conceived, by Human Wit and Invention: For his Body, that is
+ſtript of all ſinful and natural De<g ref="char:EOLhyphen"/>fects, the Abortions of Sin, and fill'd
+with all hea<g ref="char:EOLhyphen"/>venly Contemplations at its reunion with the Soul; of Mortal, it
+becomes Immortal; of Corruptible, Incorruptible; of Natural, Spiritual, <hi>i.
+e.</hi> not need<g ref="char:EOLhyphen"/>ing natural helps: There is no uſe of Meats, Appa<g ref="char:EOLhyphen"/>rel,
+Phyſick, Sleep, Beds; of weak and infirm, glorious: And for his Soul, that is
+firſt eas'd of all the Rags and Reliques of Sin; delivered of Igno rance and
+Self-love; delivered of all the Conſequen<g ref="char:EOLhyphen"/>ces of Sin, Griefs, Fears, Guilts,
+Accuſations: And then it is filled with the Image of Jeſus; then all the
+Powers and Faculties are advanced above the ordi<g ref="char:EOLhyphen"/>nary ſtrain of Nature; and
+his Soul furniſhed with all the Attendances of Chriſt's Image,
+everlaſting Joy, perpetual Peace, a conſtant Correſpondence and Communion
+with God and his Holy Angels.</p>
+               <pb n="30" facs="tcp:102410:18"/>
+               <p>And here we leave him; But it is but for a ſhort time; the
+Diviſion betwixt him and us is of a ſmall continuance; we muſt ſuddenly
+cut over the ſame Ferry, and meet him on the other ſide of the Shore;
+Death's Boat was not appointed to carry all at once; the Ferry not made to land
+all at one Tide; ſtay the return of Water for our turn: <hi>In the mean time
+praying for a proſperous Gail, and giving God thanks for all his Servants
+departed this Life in his Faith and Fear, beſeeching him to give us Grace to
+follow their good Example, that with them we may be partakers of his heavenly
+Kingdom, through Jeſus Chriſt our Mediatour and Advocate, To whom, with the
+Father and the Holy Ghoſt, three Perſons, and one God, be aſcrib'd all
+Honour, Adoration, and Thankſgiving now, and for ever.</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102410:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
